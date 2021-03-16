@@ -89,7 +89,7 @@ aside {
   z-index: 100;
   top: 20px;
   left: 5%;
-  
+
   /* transform: translate(-50%, -50%) */
 }
 aside p {
@@ -349,6 +349,7 @@ section {
   cursor: pointer;
   max-width: 150px;
   font-weight: 600;
+  min-height: 8vh;
 }
 
 /* footer */
